@@ -1,6 +1,6 @@
 # Indian-job-market-analysis
 End-to-end data analysis project on India's job market with an interactive Streamlit dashboard and ML-based salary prediction model.
-# 🇮🇳 India Job Market Dashboard
+# India Job Market Dashboard
 
 An interactive Streamlit dashboard for analyzing **97,000+ Indian job postings**, featuring skill-based job recommendations, salary prediction, resume gap analysis, role comparisons, and company intelligence — all in a sleek dark theme.
 
